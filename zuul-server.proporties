@@ -1,0 +1,3 @@
+sserver.port 9004 #Eureka 
+#eureka
+eureka.client.serviceUrl.defaultZone: http://localhost:9102/eureka/erver.port 9004 #Eureka eureka.client.serviceUrl.defaultZone: http://localhost:9102/eureka/
